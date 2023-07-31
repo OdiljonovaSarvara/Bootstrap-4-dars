@@ -1,0 +1,10 @@
+.text1{
+    color: white;
+}
+.jumbotron{
+    background: linear-gradient(150deg, #2a9fe0, #3bf3f3);
+}
+.btn{
+    position: relative;
+    left: 400px;
+}

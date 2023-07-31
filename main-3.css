@@ -1,0 +1,13 @@
+.jumbotron{
+    background: linear-gradient(150deg, #2a9fe0, #3bbff3);
+}
+.text1{
+    color: white;
+}
+.text2{
+    color:#80bdff;
+}
+.btn{
+    position: relative;
+    left: 450px;
+}
